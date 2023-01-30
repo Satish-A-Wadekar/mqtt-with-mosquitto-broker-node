@@ -1,0 +1,17 @@
+{
+  "name": "testing",
+  "version": "1.0",
+  "description": "testing",
+  "main": "node ./src/mqttSub.js",
+  "author": "satish wadekar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mqtt": "4.3.7",
+    "mqtt-node": "^0.9.1"
+  },
+  "scripts": {
+    "start": "node ./src/mqttSub.js"
+  }
+}
