@@ -1,5 +1,5 @@
 
-# MQTT with Mosquitto broker
+# MQTT with Mosquitto broker (Node.js Platform)
 
 This is a very quick & simple boilerplate where you can develop Node.js app with MQTT protocols for Pub/Sub message exchange module with the help of Mosquitto broker (custom configuration)
 
