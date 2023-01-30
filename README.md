@@ -44,12 +44,12 @@ I have already added env-template file in repo which you can use for your .env f
 
 on first terminal window run index.js to start the mosquitto server
 ```bash
-node index.js
+  node index.js
 ```
 
 if you face any error while server starting, just kill all previously running mosquitto servers at your local. to do this just run following command
 ```bash
-killall mosquitto
+  killall mosquitto
 ```
 
 on second terminal window run subscriber code
